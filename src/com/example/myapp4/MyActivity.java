@@ -8,6 +8,7 @@ public class MyActivity extends Activity {
      * Called when the activity is first created.
      */
     //change
+    //change2
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
